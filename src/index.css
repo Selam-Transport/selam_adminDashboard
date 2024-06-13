@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Add this to your global CSS or Tailwind configuration */
+
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .h-screen {
+    height: 100vh;
+  }
+  
+  .overflow-y-auto {
+    overflow-y: auto;
+  }
+  
