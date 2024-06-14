@@ -1,5 +1,5 @@
 
-# Dashboard Analytics System
+# Selam Dashboard 
 
 This project is a Dashboard Analytics System built with React and Chakra UI. The dashboard provides an overview of key metrics such as total users, total buses, monthly revenue, and other analytics. It also includes charts for visualizing monthly revenue data.
 
@@ -19,8 +19,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dashboard-analytics-system.git
-   cd dashboard-analytics-system
+   git clone https://github.com/Selam-Transport/selam_adminDashboard.git
+   cd selam_adminDashboard
    ```
 
 2. **Install dependencies:**
@@ -50,7 +50,7 @@ This will open the dashboard in your default web browser at `http://localhost:30
 ## Project Structure
 
 ```
-dashboard-analytics-system/
+selam_adminDashboard/
 │
 ├── public/
 │   ├── index.html
